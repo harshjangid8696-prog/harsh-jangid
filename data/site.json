@@ -5,9 +5,9 @@
   "location": "Jaipur, India",
   "email": "harshjangid8696@gmail.com",
   "phone": "+91 9376564276",
-  "photo": "/nri-penalty.jpg",
+  "photo": "/60abd9d7-fcac-489c-a3ea-a09f62507f3b.png",
   "cvFile": "/Harsh_Jangid_CV.pdf",
-  "availability": "Open for full-time & freelance",
+  "availability": "Open for full-time",
   "marquee": [
     "Reels",
     "Carousels",
@@ -61,7 +61,7 @@
       "period": "2025 — Present",
       "points": [
         "Own the monthly content calendar for Instagram, YouTube, LinkedIn and Facebook across both brands.",
-        "Plan, shoot, edit and publish reels, shorts and carousels on NRI tax, OCI and passport topics.",
+        "Plan, shoot, publish reels, shorts and carousels on NRI tax, OCI and passport topics.",
         "Track reach, saves, shares and follower growth; iterate hooks and formats based on what performs.",
         "Coordinate with content, SEO and compliance so every post is accurate and on-brand."
       ]
@@ -86,27 +86,18 @@
         "Carousels & infographics",
         "YouTube thumbnails",
         "Brand identity",
-        "Ad banners",
-        "Print & presentation"
-      ]
-    },
-    {
-      "group": "Video & Motion",
-      "items": [
-        "Reels & Shorts editing",
-        "Motion graphics",
-        "Subtitles & hooks",
-        "Colour & sound polish"
+        "Ad banners"
       ]
     },
     {
       "group": "Social Media",
       "items": [
         "Content strategy & calendar",
-        "Instagram · YouTube · LinkedIn",
+        "Instagram · Facebook · YouTube · LinkedIn",
         "Analytics & reporting",
         "Community management",
-        "Trend research"
+        "Trend research",
+        "Content Analytics"
       ]
     },
     {
@@ -114,12 +105,10 @@
       "items": [
         "Photoshop",
         "Illustrator",
-        "Premiere Pro",
-        "After Effects",
         "Figma",
         "Canva",
-        "CapCut",
-        "Meta Business Suite"
+        "Meta Business Suite",
+        "VidiQ"
       ]
     }
   ],
