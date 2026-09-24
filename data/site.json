@@ -24,14 +24,6 @@
     {
       "label": "LinkedIn",
       "href": "https://linkedin.com/in/"
-    },
-    {
-      "label": "Behance",
-      "href": "https://behance.net/"
-    },
-    {
-      "label": "YouTube",
-      "href": "https://youtube.com/"
     }
   ],
   "highlights": [
@@ -168,14 +160,7 @@
       "href": ""
     },
     {
-      "title": "Festival & Campaign Posts",
-      "category": "Social",
-      "client": "Visament",
-      "image": "/projects/project-07.jpg",
-      "href": ""
-    },
-    {
-      "title": "App Store Screens — HelpOCI",
+      "title": "App Store Screens — Help OCI",
       "category": "Branding",
       "client": "HelpOCI",
       "image": "/projects/project-08.jpg",
@@ -195,7 +180,7 @@
     },
     {
       "label": "Visament on Instagram",
-      "href": "https://instagram.com/visament",
+      "href": "https://www.instagram.com/nridocs_",
       "note": "Creatives & campaigns"
     },
     {
@@ -211,7 +196,7 @@
   ],
   "seo": {
     "title": "Harsh Jangid — Graphic Designer & Social Media Executive",
-    "description": "Portfolio of Harsh Jangid, graphic designer and social media executive from Jaipur. Reels, carousels, thumbnails, branding and social media growth.",
+    "description": "Portfolio of Harsh Jangid, graphic designer and social media executive from Jaipur. \nReels, carousels, thumbnails, branding and social media growth.",
     "url": "https://harsh-jangid.vercel.app"
   },
   "admin": {
